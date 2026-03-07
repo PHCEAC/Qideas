@@ -8,3 +8,7 @@ There are several possible classes of device in the widget. Prefixes P=present, 
 * Y? All USB devs reported by a usb handling qube 
 * ND? qubes holding usb controllers
 * ? All microphone devices
+   ...
+ 
+Questions:
+* What classes of device/what use cases are easier when a parent dev/bus/
