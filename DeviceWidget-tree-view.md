@@ -12,7 +12,8 @@ There are several possible classes of device in the widget. Prefixes P=present, 
  
 Questions:
 * What classes of device/what use cases might be easier with display of  a parent dev/bus/source qube?
-* Is even one level of parent-child relationship tolerable?
+* Is even one level of parent-child relationship tolerable in the widget?
+    * There is already grouping - fairly easy to understand, but difficult to apprehend relationships.
 * Should parent be collapsible?
     * more confusing if sought dev is hidden
     * less looking at rarely used ssd partitions.
@@ -22,3 +23,7 @@ Questions:
     * by attachment point
     * single view with multiple representations or switchable view?
     * Which, if any devs should appear more than once
+
+Use cases and mistakes
+
+
