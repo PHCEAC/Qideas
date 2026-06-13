@@ -7,7 +7,7 @@
 [quote="catacombs, post:28, topic:38852"] 
 
 * "Qubes OS gives you the possibility to be the weakest link, even if you are an IT se security expert." (Zrubi)
-
+* "use Qubes OS [as installed], and by following basic compartmentalization principles, they will still get some benefits" **even if** there is some risk.
 
 #### Views of users
 
