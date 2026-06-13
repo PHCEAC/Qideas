@@ -1,4 +1,4 @@
-  
+
 
 ### [Solène: new users access thread](https://forum.qubes-os.org/t/defining-our-target-audience-for-community-guides-accessibility-for-new-users/38852)
 
@@ -6,28 +6,26 @@
 
 [quote="catacombs, post:28, topic:38852"] 
 
+
+#### Views of users
+
 * User who needs: "a version of Qubes which is polished enough they can directly start using it" (Catacombs)
-
 * " a Windows Refugee, trying to get Unman's encryption key into dom0." (Catacombs)
-
 * Never-used-linux user: "Whats a Terminal.  Where is it at.  Oh, there is a Terminal in every Qube?  I guess I can just use whichever one I want?  Oh only one, and it is where on the screen?  Those commands are not working for me?" (Catacombs)
-
-
 * Should Qubes need: " a hundred hours of a learning curve?" (Catacombs)
-
-* A user: " living in a country which would not feel, or act kindly towards" a qubes user? (Catacombs)
+* " living in a country which would not feel, or act kindly towards" a qubes user? (Catacombs)
 * " who, just,  need to get their computer up and running, without revealing themselves on the internet." (Catacombs)
+* Qubes OS is not for everyone. (Zrubi)
 
-
-
-[quote="Zrubi, post:5, topic:38852"]
-Qubes OS is not for everyone.
-[/quote]
+#### Approaches
 
 * [quote="shantyspruce, post:2, topic:38852"]
 Coddling new users (I say this not in a negative way) is the obvious choice if we want to be new-user-friendly, but that requires intentional OS design
 * e.g. "making a text editor universal" (shantyspruce)
-
+* but also: making ```fdisk -l``` inaccessible
+* linux learning:
+  * single large intro : mental overload?
+  * bite-size pieces : how to link and reference them? What is the smallest "bite" or "quantum"? (shantyspruce)
 
 
 
