@@ -33,13 +33,18 @@ Coddling new users (I say this not in a negative way) is the obvious choice if w
   * "required ... skill is set by current security field and cannot be changed by ... documentation" (otter2) edited.
   * 
 
+Other points 
 
+* Provide easier, but slightly less secure "beginners" system:
+  * "should be possible to set no-strict-reset automatically " (otter2)
+  * direct-to-dom0 keyboard/mouse boot option.
+  *  Add a "security best practise" warnings/scan to global setup, to make it possible to undo newbie config choices.
 
 [quote="catacombs, post:28, topic:38852"]
 my post had little to add to Community Guides
 [/quote]
 
-I have been watching, an I feel that @catacombs touched some very good points, that could add a lot.
+I have been watching, an I feel that @catacombs touched some very good points, that could add a lot."
 
 For me, many Community Guides for beginners problems are designed for a complex Qubes system that addresses a very complex, multi-headed threat model.
 
