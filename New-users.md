@@ -11,6 +11,11 @@
 
 #### Views of users
 
+" industry standard is to define a couple of “personas” with short descriptions" (leo)
+
+* technical user, interested in having a secure OS for standard everyday tasks (leo)
+* security researcher, studies cutting-edge OS security practices (leo)
+* independent journalist: needs a secure OS protect source anonymity (leo)
 * User who needs: "a version of Qubes which is polished enough they can directly start using it" (Catacombs)
 * " a Windows Refugee, trying to get Unman's encryption key into dom0." (Catacombs)
 * Never-used-linux user: "Whats a Terminal.  Where is it at.  Oh, there is a Terminal in every Qube?  I guess I can just use whichever one I want?  Oh only one, and it is where on the screen?  Those commands are not working for me?" (Catacombs)
