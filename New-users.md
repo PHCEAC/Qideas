@@ -24,6 +24,10 @@
 Qubes OS is not for everyone.
 [/quote]
 
+* [quote="shantyspruce, post:2, topic:38852"]
+Coddling new users (I say this not in a negative way) is the obvious choice if we want to be new-user-friendly, but that requires intentional OS design
+* e.g. "making a text editor universal" (shantyspruce)
+
 
 
 
