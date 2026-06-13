@@ -6,6 +6,8 @@
 
 [quote="catacombs, post:28, topic:38852"] 
 
+* "Qubes OS gives you the possibility to be the weakest link, even if you are an IT se security expert." (Zrubi)
+
 
 #### Views of users
 
@@ -15,7 +17,7 @@
 * Should Qubes need: " a hundred hours of a learning curve?" (Catacombs)
 * " living in a country which would not feel, or act kindly towards" a qubes user? (Catacombs)
 * " who, just,  need to get their computer up and running, without revealing themselves on the internet." (Catacombs)
-* Qubes OS is not for everyone. (Zrubi)
+* "Qubes OS is not for everyone." (Zrubi)
 
 #### Approaches
 
@@ -26,6 +28,10 @@ Coddling new users (I say this not in a negative way) is the obvious choice if w
 * linux learning:
   * single large intro : mental overload?
   * bite-size pieces : how to link and reference them? What is the smallest "bite" or "quantum"? (shantyspruce)
+  * "love it if Qubes OS provided the same kind of documentation as Tails OS. But..." (Parulin)
+  * "focus on documenting only Qubes OS tools." (Parulin)
+  * "required ... skill is set by current security field and cannot be changed by ... documentation" (otter2) edited.
+  * 
 
 
 
