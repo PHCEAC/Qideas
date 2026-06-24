@@ -1,0 +1,17 @@
+
+Copyright (c) 2023-2026 CharlieC
+
+
+All work in this repository  © 2023 and later by CharlieC is licensed 
+under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+All previous licenses apply only to copies obtained prior to 24th June 2026
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
