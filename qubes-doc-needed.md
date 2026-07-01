@@ -5,6 +5,6 @@
      * There is no other effect when the condition is detected.
 * other scary looking dmesg items. esp acpi
 * all those obsolete ProxyVM items
-* problem of no qubes firewall when the upstream qube doe not support fw: https://forum.qubes-os.org/t/serious-qvm-firewall-bypass-possibly-if-you-do-not-understand-qvm-firewall-and-qubes-firewall-service/39429/11
+* problem of no qubes firewall when the upstream qube doe not support fw: https://forum.qubes-os.org/t/serious-qvm-firewall-bypass-possibly-if-you-do-not-understand-qvm-firewall-and-qubes-firewall-service/39429/11 and https://forum.qubes-os.org/t/serious-qvm-firewall-bypass-possibly-if-you-do-not-understand-qvm-firewall-and-qubes-firewall-service/39429/22
 
 
