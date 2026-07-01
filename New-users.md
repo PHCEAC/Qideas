@@ -36,7 +36,6 @@ Coddling new users (I say this not in a negative way) is the obvious choice if w
   * "love it if Qubes OS provided the same kind of documentation as Tails OS. But..." (Parulin)
   * "focus on documenting only Qubes OS tools." (Parulin)
   * "required ... skill is set by current security field and cannot be changed by ... documentation" (otter2) edited.
-  * 
 
 Other points 
 
@@ -57,4 +56,16 @@ For me, many Community Guides for beginners problems are designed for a complex 
 
 * Devices are difficult
   * Disks are difficult:
-    * Cannot easily look at or modify built-in system disks. https://forum.qubes-os.org/t/where-what-qube-to-use-to-view-all-connected-disks/39508/ 
+    * Cannot easily look at or modify built-in system disks. https://forum.qubes-os.org/t/where-what-qube-to-use-to-view-all-connected-disks/39508/
+
+### needed community guides
+
+https://forum.qubes-os.org/t/how-to-verify-qubes-digital-signatures-and-key-verification-verifying-signatures/3266
+
+
+
+
+
+
+
+
