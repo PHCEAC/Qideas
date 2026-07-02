@@ -58,14 +58,22 @@ For me, many Community Guides for beginners problems are designed for a complex 
   * Disks are difficult:
     * Cannot easily look at or modify built-in system disks. https://forum.qubes-os.org/t/where-what-qube-to-use-to-view-all-connected-disks/39508/
 
-### needed community guides
+### needed beginner community guides
 
-https://forum.qubes-os.org/t/how-to-verify-qubes-digital-signatures-and-key-verification-verifying-signatures/3266
+* https://forum.qubes-os.org/t/how-to-verify-qubes-digital-signatures-and-key-verification-verifying-signatures/3266
+* 
+* troubleshoot usb kb/mouse
+* 
+* learning: types of qubes
+* learning: install software
+  * where, how. (why?)
+* learning: templates
+
+### New user stories
 
 
 
 
 
-
-
+https://forum.qubes-os.org/t/qubes-clash-gateway-from-zero-to-deep-into-qubes-os-my-personal-journey/41880
 
