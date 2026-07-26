@@ -12,3 +12,20 @@
   *  kernel and application logs
   * sudo
   * 
+
+## Linux for qubes
+
+* filesystem
+* navigating 
+* files
+*
+* permissions
+* names
+* creating
+* removing
+* renaming
+* types
+* editing
+
+*  Processes
+*  
