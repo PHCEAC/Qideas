@@ -4,7 +4,9 @@ There are several possible classes of object/device in the widget. Prefixes P=pr
 * X block dev partitions. Places for holding filesystems.
     Seems not all partitions are shown?
 * N? Sata storage devs
-* Y? All USB devs reported by a usb handling qube 
+* X? LVM PV/VG/Pool/LV
+* Y? All USB devs reported by a usb handling qube
+* N? USB controllers
 * ND? qubes holding usb controllers
 * ? All microphone devices
 *  ...
