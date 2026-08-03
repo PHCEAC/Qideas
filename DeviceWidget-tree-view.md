@@ -4,6 +4,7 @@ There are several possible classes of object/device in the widget. Prefixes P=pr
 * X block dev partitions. Places for holding filesystems.
   *  Seems not all partitions are shown?
   *  hide lvm partitions by default?
+  *  Or does Qubes only show partitions it made itself? I think not, because cfdisk is not recommended.
 * N? Sata storage devs
 * X? LVM PV/VG/Pool/LV
 * Y? All USB devs reported by a usb handling qube
