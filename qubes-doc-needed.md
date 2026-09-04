@@ -1,3 +1,9 @@
+# Issues to report
+
+qubes-rpc/qubes.GetDate
+If clockvm is stopped, gets a possibly-incorrect value from adminvm
+
+
 
 * FIRMWARE BUG : ... apic mismatch
      * is only a warning that was introduced in feb 2024, 6.9
